@@ -1,0 +1,8 @@
+conv3_per_block 0 {'val_loss': 0.2215, 'dice': 0.7813, 'iou': 0.6411, 'pixel_error': 0.0914, 'step': 250, 'train_loss': 0.3306, 'elapsed_min': 11.7}
+conv3_per_block 0 {'val_loss': 0.2159, 'dice': 0.7698, 'iou': 0.6258, 'pixel_error': 0.0841, 'step': 500, 'train_loss': 0.2458, 'elapsed_min': 23.2}
+conv3_per_block 0 {'val_loss': 0.1973, 'dice': 0.7877, 'iou': 0.6498, 'pixel_error': 0.0829, 'step': 750, 'train_loss': 0.2269, 'elapsed_min': 34.8}
+conv3_per_block 0 {'val_loss': 0.1872, 'dice': 0.7985, 'iou': 0.6645, 'pixel_error': 0.0781, 'step': 1000, 'train_loss': 0.2094, 'elapsed_min': 46.6}
+depth5_capped 0 {'val_loss': 0.2443, 'dice': 0.7561, 'iou': 0.6079, 'pixel_error': 0.1037, 'step': 250, 'train_loss': 0.3101, 'elapsed_min': 8.6}
+depth5_capped 0 {'val_loss': 0.2273, 'dice': 0.7555, 'iou': 0.6071, 'pixel_error': 0.0857, 'step': 500, 'train_loss': 0.2406, 'elapsed_min': 17.1}
+depth5_capped 0 {'val_loss': 0.1935, 'dice': 0.7948, 'iou': 0.6594, 'pixel_error': 0.0799, 'step': 750, 'train_loss': 0.2252, 'elapsed_min': 25.6}
+depth5_capped 0 {'val_loss': 0.1874, 'dice': 0.7987, 'iou': 0.6648, 'pixel_error': 0.0775, 'step': 1000, 'train_loss': 0.209, 'elapsed_min': 34.2}

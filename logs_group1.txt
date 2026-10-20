@@ -1,0 +1,12 @@
+baseline 0 {'val_loss': 0.2478, 'dice': 0.7628, 'iou': 0.6165, 'pixel_error': 0.103, 'step': 250, 'train_loss': 0.319, 'elapsed_min': 8.2}
+baseline 0 {'val_loss': 0.2282, 'dice': 0.7605, 'iou': 0.6136, 'pixel_error': 0.085, 'step': 500, 'train_loss': 0.2408, 'elapsed_min': 16.2}
+baseline 0 {'val_loss': 0.1957, 'dice': 0.79, 'iou': 0.6529, 'pixel_error': 0.0819, 'step': 750, 'train_loss': 0.2234, 'elapsed_min': 24.6}
+baseline 0 {'val_loss': 0.1868, 'dice': 0.7999, 'iou': 0.6665, 'pixel_error': 0.0777, 'step': 1000, 'train_loss': 0.2082, 'elapsed_min': 33.0}
+conv1_per_block 0 {'val_loss': 0.2067, 'dice': 0.7866, 'iou': 0.6482, 'pixel_error': 0.0819, 'step': 250, 'train_loss': 0.3124, 'elapsed_min': 4.9}
+conv1_per_block 0 {'val_loss': 0.2167, 'dice': 0.7725, 'iou': 0.6294, 'pixel_error': 0.083, 'step': 500, 'train_loss': 0.2375, 'elapsed_min': 9.8}
+conv1_per_block 0 {'val_loss': 0.1971, 'dice': 0.7931, 'iou': 0.6571, 'pixel_error': 0.0821, 'step': 750, 'train_loss': 0.2241, 'elapsed_min': 14.4}
+conv1_per_block 0 {'val_loss': 0.1932, 'dice': 0.7975, 'iou': 0.6632, 'pixel_error': 0.0796, 'step': 1000, 'train_loss': 0.2112, 'elapsed_min': 19.1}
+depth3 0 {'val_loss': 0.2279, 'dice': 0.7861, 'iou': 0.6476, 'pixel_error': 0.0913, 'step': 250, 'train_loss': 0.3384, 'elapsed_min': 6.5}
+depth3 0 {'val_loss': 0.2177, 'dice': 0.7766, 'iou': 0.6348, 'pixel_error': 0.0813, 'step': 500, 'train_loss': 0.2365, 'elapsed_min': 12.9}
+depth3 0 {'val_loss': 0.1958, 'dice': 0.7914, 'iou': 0.6548, 'pixel_error': 0.0825, 'step': 750, 'train_loss': 0.2216, 'elapsed_min': 19.3}
+depth3 0 {'val_loss': 0.1878, 'dice': 0.8001, 'iou': 0.6668, 'pixel_error': 0.0781, 'step': 1000, 'train_loss': 0.2066, 'elapsed_min': 26.0}

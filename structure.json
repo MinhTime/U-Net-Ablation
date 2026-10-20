@@ -1,0 +1,74 @@
+[
+  {
+    "variant": "baseline",
+    "depth": 4,
+    "n_convs": 2,
+    "conv_layers": 23,
+    "params_M": 31.04,
+    "GMACs_512": 192.4,
+    "rf_bottleneck": 140,
+    "rf_output": 200,
+    "input_multiple": 16,
+    "cpu_latency_512_s": 2.63
+  },
+  {
+    "variant": "conv1_per_block",
+    "depth": 4,
+    "n_convs": 1,
+    "conv_layers": 14,
+    "params_M": 15.33,
+    "GMACs_512": 105.4,
+    "rf_bottleneck": 78,
+    "rf_output": 108,
+    "input_multiple": 16,
+    "cpu_latency_512_s": 1.71
+  },
+  {
+    "variant": "conv3_per_block",
+    "depth": 4,
+    "n_convs": 3,
+    "conv_layers": 32,
+    "params_M": 46.75,
+    "GMACs_512": 279.3,
+    "rf_bottleneck": 202,
+    "rf_output": 292,
+    "input_multiple": 16,
+    "cpu_latency_512_s": 3.75
+  },
+  {
+    "variant": "depth3",
+    "depth": 3,
+    "n_convs": 2,
+    "conv_layers": 18,
+    "params_M": 7.7,
+    "GMACs_512": 146.7,
+    "rf_bottleneck": 68,
+    "rf_output": 96,
+    "input_multiple": 8,
+    "cpu_latency_512_s": 2.42
+  },
+  {
+    "variant": "depth5",
+    "depth": 5,
+    "n_convs": 2,
+    "conv_layers": 28,
+    "params_M": 124.37,
+    "GMACs_512": 238.0,
+    "rf_bottleneck": 284,
+    "rf_output": 408,
+    "input_multiple": 32,
+    "cpu_latency_512_s": 3.32
+  },
+  {
+    "variant": "depth5_capped",
+    "depth": 5,
+    "n_convs": 2,
+    "conv_layers": 28,
+    "params_M": 43.89,
+    "GMACs_512": 193.0,
+    "rf_bottleneck": 284,
+    "rf_output": 408,
+    "input_multiple": 32,
+    "cpu_latency_512_s": 2.67
+  }
+]
